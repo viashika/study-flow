@@ -1,4 +1,6 @@
-...existing code...
+# StudyFlow
+
+StudyFlow is a web-based productivity and study planning application that automatically transforms a user’s daily tasks, commitments, and fixed schedule into a personalized study/work plan. It integrates with Apple Reminders to keep tasks synchronized, allows users to track task completion, and provides summaries and insights to help them monitor progress and improve productivity.
 
 # StudyFlow — Run & Deploy
 
