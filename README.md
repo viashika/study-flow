@@ -72,3 +72,6 @@ Notes
 If you want, I can:
 - Add a GitHub Actions workflow to auto-deploy the client on push, or
 - Add Vercel/Render deployment steps for the server.
+
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://viashika.github.io/study-flow/)
